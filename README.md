@@ -1,5 +1,5 @@
-# Pacmen Exercise
 <a href="https://leanneh11.github.io/LeanneH/" >BACK TO PORTFOLIO</a>
+# Pacmen Exercise
 
 ## **Description:**
 This is week seven's JavaScript project to create a game where one or more PacMan characters are released onto the page. This assignment uses HTML, CSS, and JavaScript. Upon clicking the "Add PacMan" button, a new Pac Man will appear and the PacMan gang will move around the page when you click "Start Game."  If and when they encounter a screen border, they will reverse direction. 
